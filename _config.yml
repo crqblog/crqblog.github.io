@@ -106,7 +106,7 @@ friends: [
         title: "我",
         href: "http://github.com/qbsz"
     },{
-        
+       } 
 ]
 
 theme: jekyll-theme-cayman
