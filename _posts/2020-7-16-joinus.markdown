@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "新生报名啦"
-date:       2020-7-16 14:12:12
+date:       2020-7-16 15:50:12
 author:     "Chen"
 header-img: "img/post-bg-miui6.jpg"
 tags:
