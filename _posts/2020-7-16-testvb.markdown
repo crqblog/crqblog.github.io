@@ -1,0 +1,13 @@
+---
+layout:     post
+title:      "「知乎」如何评价 MIUI 6？"
+date:       2020-16-16 13:49:50
+author:     "Chen"
+header-img: "img/post-bg-miui6.jpg"
+tags:
+    - 八卦
+    - testtag
+    - 我
+---
+> me
+hi
