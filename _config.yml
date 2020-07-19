@@ -131,3 +131,5 @@ friends: [
         href: "http://github.com/crqshmh"
     }
 ]
+
+theme: jekyll-theme-cayman
