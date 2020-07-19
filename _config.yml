@@ -109,8 +109,8 @@ friends: [
         title: "学校",
         href: "https://qbsz.github.io"
     },{
-        title: "GitHub",
-        href: "http://github.com"
+        title: "学校博客",
+        href: "http://aboutqbsz.github.io/"
     },{
         title: "GitHub pages",
         href: "http://pages.github.com/"
@@ -118,8 +118,8 @@ friends: [
         title: "hux",
         href: "http://huangxuan.me"
     },{
-        title: "百度",
-        href: "http://baidu.com/"
+        title: "GitHub",
+        href: "http://github.com/"
     },{
         title: "csdn",
         href: "https://blog.csdn.net/"
