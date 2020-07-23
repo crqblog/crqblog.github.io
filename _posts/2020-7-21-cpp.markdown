@@ -39,4 +39,4 @@ using namespace std;int main(){cout << "Hello, world!" << endl;return 0;}
 
 不过我在此更加推荐第一种，它的可读性更强。
 ## 进阶
-以前学会了cout，就觉得自己天下无敌，其实不是这样的。如果你想的话，看看
+以前学会了cout，就觉得自己天下无敌，其实不是这样的。如果你想的话，看看[isocpp](https://github.com/isocpp)大佬的[CppCoreGuideLines](https://github.com/isocpp/CppCoreGuidelines)吧！
