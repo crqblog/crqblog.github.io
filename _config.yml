@@ -3,8 +3,8 @@ title: crqblog
 SEOTitle: 陈睿琦的博客 | cblog
 header-img: img/home-bg.jpg
 email: qbszbuilder@163.com
-description: "关于程序与设计、黑客与画家 | 陈睿琦，Web & Mobile Lover，Software Engineer，UX Designer | 这里是 @七宝实验中学 的个人博客，与你一起发现更大的世界。"
-keyword: "陈睿琦, 我, Chen, us, huxpro, @huxpro, 陈睿琦的博客, Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
+description: "这里是陈睿琦的个人博客，与你一起发现更大的世界。"
+keyword: "陈睿琦, 我, Chen, us, Ricky, @Chen, 陈睿琦的博客, Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
 url: "https://huangxuan.me"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
