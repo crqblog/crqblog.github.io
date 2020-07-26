@@ -132,11 +132,6 @@ friends: [
     }
 ]
 
-pages: [
-     {
-         title: "Friends",
-         href: "/friends"
-     }
-]
+
 
 theme: jekyll-theme-cayman
