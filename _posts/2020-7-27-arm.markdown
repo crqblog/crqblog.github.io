@@ -20,3 +20,5 @@ tags:
 
 ## 链接福利
 1:[柳叶刀](https://www.thelancet.com)--没事多看看一定有好处！
+
+2:[柳叶刀“arm”搜索页面](https://www.thelancet.com/action/doSearch?searchType=quick&searchText=arm&searchScope=fullSite&occurrences=all&code=lancet-site)--关心自己的手，特别是你的右手！
