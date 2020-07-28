@@ -6,6 +6,8 @@ author:     "Chen"
 header-img: "img/post-bg-miui6.jpg"
 tags:
     - 原创
+    - 八卦
+    - 我
 ---
 
 > 人生的道路总是充满了曲折
