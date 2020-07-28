@@ -12,4 +12,40 @@ tags:
 > 上一期我们了解了c++的基本结构，这次我们主要来聊聊运算符。
 
 ## 运算符有哪些
-一般有+，-，*，/（分别为加减乘除）四个符号（以后再说%，++，--），
+一般有+，-，*，/（分别为加减乘除）四个符号（以后再说%，++，--），使用这些运算符可以简单地进行一些运算。就比如这样
+
+``` cpp
+#include <iostream>
+using namespace std;
+ 
+int main()
+{
+   int a = 5;
+   int b = 20;
+   int c ;
+ 
+   if ( a && b )
+   {
+      cout << "Line 1 - yes"<< endl ;
+   }
+   if ( a || b )
+   {
+      cout << "Line 2 - yes"<< endl ;
+   }
+   a = 0;
+   b = 10;
+   if ( a && b )
+   {
+      cout << "Line 3 - yes"<< endl ;
+   }
+   else
+   {
+      cout << "Line 4 - no"<< endl ;
+   }
+   if ( !(a && b) )
+   {
+      cout << "Line 5 - no"<< endl ;
+   }
+   return 0;
+}
+ ```
