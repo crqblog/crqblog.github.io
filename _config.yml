@@ -112,22 +112,13 @@ friends: [
         title: "学校博客",
         href: "http://aboutqbsz.github.io/"
     },{
-        title: "GitHub pages",
-        href: "http://pages.github.com/"
-    },{
-        title: "hux",
+        title: "HuxPro",
         href: "http://huangxuan.me"
     },{
         title: "GitHub",
         href: "http://github.com/"
     },{
-        title: "csdn",
-        href: "https://blog.csdn.net/"
-    },{
-        title: "help",
-        href: "http://help.github.com"
-    },{
-        title: "crqshmh",
+        title: "Crqshmh",
         href: "http://github.com/crqshmh"
     }
 ]
