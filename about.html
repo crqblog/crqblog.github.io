@@ -13,15 +13,12 @@ multilingual: true
     {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
 </div>
-    {% include gitalk.html %}
 
 <!-- English Version -->
 <div class="en post-container">
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
-        {% include gitalk.html %}
-</div>
-    {% include gitalk.html %}
 
-<p>请在about页面的首页登陆后再进行英、中文的评论！</p>
+</div>
+
 {% include gitalk.html %}
