@@ -19,9 +19,8 @@ multilingual: true
 <div class="en post-container">
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
-    {% include gitalk.html %}
 </div>
-
+    {% include gitalk.html %}
 
 
 {% include gitalk.html %}
