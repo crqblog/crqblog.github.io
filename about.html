@@ -12,14 +12,14 @@ multilingual: true
 <div class="zh post-container">
     {% capture about_zh %}{% include about/zh.md %}{% endcapture %}
     {{ about_zh | markdownify }}
-    {% include gitalk.html %}
 </div>
+    {% include gitalk.html %}
 
 <!-- English Version -->
 <div class="en post-container">
     {% capture about_en %}{% include about/en.md %}{% endcapture %}
     {{ about_en | markdownify }}
-    {% include gitalk.html %}
 </div>
+    {% include gitalk.html %}
 
 {% include gitalk.html %}
