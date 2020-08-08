@@ -13,6 +13,7 @@ future: true
 
 # SNS settings
 RSS: false
+csdn_username:    commanday
 github_username:    qbsz
 #facebook_username:  huxpro
 #linkedin_username:  firstname-lastname-idxxxx
