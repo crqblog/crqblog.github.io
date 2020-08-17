@@ -7,4 +7,4 @@ Hi，我是陈睿琦，一个喜欢编程的初中生，编程语言/编译器�
 我只是个萌新，希望各位大佬们能多多支持哈
 
 ##### 更多
-[click here](https://crqblog.github.io/moreabout/#/)
+[👉传送门](https://crqblog.github.io/moreabout/#/)
