@@ -28,7 +28,6 @@ function myFunction() {
 
 下面是h5与css：
 ```html
-//html
 <button onclick="myFunction()">显示 Snackbar</button>
 <div id="snackbar">一些文本..</div>
 ```
@@ -36,7 +35,6 @@ function myFunction() {
 </br>
 
 ```css
-//css
 #snackbar {
     visibility: hidden;
     min-width: 250px;
@@ -78,4 +76,9 @@ function myFunction() {
     from {bottom: 30px; opacity: 1;}
     to {bottom: 0; opacity: 0;}
 }
+```
+
+## 应用
+我的博客开始添加了snackbar来显示更新提醒，但由于添加了看版娘组件，只得狠心删除。给大家贴一下源码吧
+```js
 ```
