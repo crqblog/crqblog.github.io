@@ -157,7 +157,8 @@ Snackbar.make(view, message, duration)
 
 
 
-```jsSnackbar.make(mLayout, "Message", Snackbar.LENGTH_LONG).setAction("按钮", new View.OnClickListener() {
+```js
+Snackbar.make(mLayout, "Message", Snackbar.LENGTH_LONG).setAction("按钮", new View.OnClickListener() {
                     @Override
                     public void onClick(View v) {
                     }
