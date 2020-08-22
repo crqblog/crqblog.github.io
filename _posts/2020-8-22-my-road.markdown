@@ -1,6 +1,4 @@
 ---
 layout:     keynote
-author:     "Chen"
-title:      "屎诗巨作1-历程"
 iframe:     "http://crqblog.github.io/my-road/"
 ---
