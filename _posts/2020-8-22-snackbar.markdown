@@ -1,6 +1,7 @@
 ---
 layout:     post
 title:      "SnackBar"
+subtitle:      "SnackBar简明介绍"
 date:       2020-8-22 14:12:12
 author:     "Chen"
 header-img: "img/post-bg-miui6.jpg"
