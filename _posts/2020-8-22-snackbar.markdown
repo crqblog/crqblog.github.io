@@ -78,7 +78,7 @@ function myFunction() {
 ```
 
 ## 应用
-我的博客开始添加了snackbar来显示更新提醒，但由于添加了看版娘组件，只得狠心删除。给大家贴一下源码吧
+我的博客开始添加了snackbar来显示更新提醒，但由于添加了看版娘组件但是又懒得修改，只得狠心删除。给大家贴一下源码吧
 ```js
 var createSnackbar = (function() {
   var previous = null;
