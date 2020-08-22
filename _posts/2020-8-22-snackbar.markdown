@@ -32,7 +32,6 @@ function myFunction() {
 <div id="snackbar">一些文本..</div>
 ```
 
-</br>
 
 ```css
 #snackbar {
