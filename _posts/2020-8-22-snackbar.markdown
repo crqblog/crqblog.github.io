@@ -168,5 +168,5 @@ Snackbar.make(view, message, duration)
 【ps：在编写前，别忘记找到你app的build gradle文件，并加入 **compile 'com.android.support:design:23.4.0'** 这一串compile语句】
 
 ## 总结
-snackbar在编程领域可以说是一个分界点，标志着技术的进步，也相信通过我们各个开发者的努力，会做的更好。我也会持续为大家更新技术博文，谢谢大家！
+snackbar在编程领域可以说是一个分界点，标志着技术的进步，也相信通过我们各个开发者的努力，会做的更好。我也会持续为大家更新技术博文哦，谢谢大家！
 
