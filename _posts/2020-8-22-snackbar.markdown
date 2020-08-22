@@ -1,3 +1,13 @@
+---
+layout:     post
+title:      "snackbar"
+date:       2020-8-22 14:12:12
+author:     "Chen"
+header-img: "img/post-bg-miui6.jpg"
+tags:
+    - 原创
+    - js
+---
 > snackbar 简明介绍
 
 ## 什么是snackbar
