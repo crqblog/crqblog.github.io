@@ -146,6 +146,7 @@ Snackbar.make(view, message, duration)
 
 这是一个标准的snackbar，但是
 首先，你要准备XML于Java文件：
+
 ```js
 <android.support.design.widget.CoordinatorLayout
       android:id="@+id/layout"
@@ -161,6 +162,7 @@ Snackbar.make(view, message, duration)
                 }).show();
 
 ```
+
 【ps：在编写前，别忘记找到你app的build gradle文件，并加入 **compile 'com.android.support:design:23.4.0'** 这一串compile语句】
 
 ## 总结
