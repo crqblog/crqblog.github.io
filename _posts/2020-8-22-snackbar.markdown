@@ -16,7 +16,7 @@ Toast，相信大家都不陌生。而最近出来的snackbar可以说是Toast�
 snackbar特点：
 > 一小段时间之后、或者用户与屏幕触发交互，Snackbar 会自动消失。
 
-而更强大的是，js也行的通：
+而更强大的是，js也行的通！
 我们可以通过一个小实例来学习：
 ```js
 function myFunction() {
@@ -133,4 +133,34 @@ getComputedStyle(snackbar).bottom;
   };
 })();
 ```
-这段代码源于codepen.io,也希望大家支持一下他们哟！我也会持续为大家更新技术博文，谢谢大家！
+【ps：这段代码源于codepen.io,也希望大家支持一下他们哟！】
+## Android
+**既然Web上行得通，那么，在其它环境呢？**
+我们就拿安卓系统来举例吧
+
+```js
+Snackbar.make(view, message, duration)
+        .setAction(action message, click listener)
+        .show();
+```
+
+这是一个标准的snackbar，但是
+首先，你要准备XML于Java文件：
+```js
+<android.support.design.widget.CoordinatorLayout
+      android:id="@+id/layout"
+      android:layout_width="match_parent"
+      android:layout_height="match_parent">
+  </android.support.design.widget.CoordinatorLayout>
+```
+
+```jsSnackbar.make(mLayout, "Message", Snackbar.LENGTH_LONG).setAction("按钮", new View.OnClickListener() {
+                    @Override
+                    public void onClick(View v) {
+                    }
+                }).show();
+
+```
+【ps：在编写前，别忘记找到你app的build gradle文件，并加入 **compile 'com.android.support:design:23.4.0'** 这一串compile语句】
+我也会持续为大家更新技术博文，谢谢大家！
+
