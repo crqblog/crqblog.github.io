@@ -145,7 +145,7 @@ Snackbar.make(view, message, duration)
 ```
 
 这是一个标准的snackbar，但是
-首先，你要准备XML于Java文件：
+首先，你要准备XML与Java文件：
 
 ```js
 <android.support.design.widget.CoordinatorLayout
