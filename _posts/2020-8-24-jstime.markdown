@@ -1,0 +1,71 @@
+---
+layout:     post
+title:      "SnackBar的时间计算"
+subtitle:      "SnackBar简明介绍"
+date:       2020-8-22 14:12:12
+author:     "Chen"
+header-img: "img/post-bg-miui6.jpg"
+tags:
+    - 原创
+    - js
+---
+
+> js时钟？
+
+## 小引
+一上来，我先抛出这么一个代码
+
+```js
+function startTime(){
+	var today=new Date();
+	var h=today.getHours();
+	var m=today.getMinutes();
+	var s=today.getSeconds();// 嘿嘿，成功水了一期博客
+	m=checkTime(m);
+	s=checkTime(s);
+	document.getElementById('txt').innerHTML=h+":"+m+":"+s;
+	t=setTimeout(function(){startTime()},500);
+}
+function checkTime(i){
+	if (i<10){
+		i="0" + i;
+	}
+	return i;
+}
+```
+
+怎么样，相信懂点js的朋友们都已经了解过原理了吧。非常简单，难道不是吗？
+但是不知道为什么，今天突然想再复习一遍（没错，这就是我哈哈哈哈哈），便有了这篇文章。
+
+## Date
+其实这很简单，Date的引用无非就是这几种：
+getFullYear()
+getTime()
+setFullYear()
+toUTCString()
+getDay()
+**注意：是date，不是data！！！**
+
+## 创建日期
+首先初始化日期，通常有这4种方法
+
+```js
+new Date();
+new Date(value);
+new Date(dateString);
+new Date(year, monthIndex [, day [, hours [, minutes [, seconds [, milliseconds]]]]]);
+```
+
+## 设置日期
+
+就是设置日期，没啥好说的。
+
+```js
+var myDate=new Date();
+myDate.setFullYear(2008,0,14);// 2008.01.14
+```
+
+## 注意
+在开头给出的js代码在静态页面(gh-pages,gl-pages等)不可用！！！
+
+
