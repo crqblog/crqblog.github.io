@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "SnackBar的时间计算"
-subtitle:      "SnackBar简明介绍"
+title:      "js的时间计算"
+subtitle:      "时光不可逆"
 date:       2020-8-22 14:12:12
 author:     "Chen"
 header-img: "img/post-bg-miui6.jpg"
