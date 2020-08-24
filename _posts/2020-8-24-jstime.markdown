@@ -2,7 +2,7 @@
 layout:     post
 title:      "js的时间计算"
 subtitle:      "时光不可逆"
-date:       2020-8-22 14:12:12
+date:       2020-8-24 14:12:12
 author:     "Chen"
 header-img: "img/post-bg-miui6.jpg"
 tags:
@@ -39,11 +39,17 @@ function checkTime(i){
 
 ## Date
 其实这很简单，Date的引用无非就是这几种：
+
 getFullYear()
+
 getTime()
+
 setFullYear()
+
 toUTCString()
+
 getDay()
+
 **注意：是date，不是data！！！**
 
 ## 创建日期
