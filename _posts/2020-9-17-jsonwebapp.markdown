@@ -38,3 +38,15 @@ tags:
   "orientation": "portrait"
 }
 ```
+
+## 引入文件
+最重要的一点来了
+
+请在你的html页面的head标签中加入这句语句：
+
+```js
+<link rel="manifest" href="https://snakes.js.org/pwa/manifest.json">
+```
+
+## 收工
+进入自己的页面刷新首页，当你再次试图添加书签到主屏幕是，即可创建Web App！
