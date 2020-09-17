@@ -7,8 +7,12 @@ author:     "Chen"
 header-img: "img/post-bg-miui6.jpg"
 tags:
     - 原创
-    - js
+    - Web
 ---
+> Web App构建
+
+## Json
+```json
 {
   "name": "Cblog",
   "short_name": "Cblog",
@@ -28,3 +32,4 @@ tags:
   "display": "standalone",
   "orientation": "portrait"
 }
+```
