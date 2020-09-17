@@ -45,7 +45,7 @@ tags:
 请在你的html页面的head标签中加入这句语句：
 
 ```js
-<link rel="manifest" href="{{ site.baseurl }}/pwa/manifest.json"> // 如果你没有使用liquid（大括号使用的语句，请把{{ site.baseurl }}替换为你网站主页的URL（根域名）example：https//crq.js.org 不要使用https//crq.js.org/example类型的URL
+<link rel="manifest" href="{{ site.baseurl }}/pwa/manifest.json"> // 如果你没有使用liquid（大括号使用的语句），请把{{ site.baseurl }}替换为你网站主页的URL（根域名）example：https//crq.js.org 不要使用https//crq.js.org/example类型的URL
 ```
 
 ## 收工
