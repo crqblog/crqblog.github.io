@@ -12,17 +12,22 @@ tags:
 > Web App构建
 
 ## Json
+在GitHub Pages制作Web App十分简单，可是首先，你要先建立文件/pwa/manifest.json
+
+**note：你可以更改文件名称，但是随后步骤也需更改！**
+
+实例代码：
 ```json
 {
-  "name": "Cblog",
-  "short_name": "Cblog",
-  "description": "About a student & designer who loves web.",
+  "name": "Name",
+  "short_name": "Name",
+  "description": "My first web app",
   "icons": [{
-    "src": "icons/128.png",
+    "src": "imgs/example.png",
     "sizes": "128x128",
     "type": "image/png"
   }, {
-    "src": "icons/512.png",
+    "src": "imgs/example2.png",
     "sizes": "512x512",
     "type": "image/png"
   }],
