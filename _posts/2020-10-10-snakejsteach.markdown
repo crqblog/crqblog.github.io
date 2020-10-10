@@ -11,6 +11,8 @@ tags:
 ---
 > js贪吃蛇的简单实现
 
+[查看演示](https://snakes.js.org)
+
 ## css设计
 不求好看，但功能一定要丰富！css简单点吧！
 
@@ -250,7 +252,9 @@ var Direction = new function () {
     }
 ```
 
-## 接下来的html简单多了
+## html
+
+接下来的html简单多了
 
 ```html
 <body onclick="align()">
@@ -271,3 +275,4 @@ var Direction = new function () {
         <a href="https://snakes.js.org/" class="button">Back</a>
     </body>
 ```
+[查看演示](https://snakes.js.org)
