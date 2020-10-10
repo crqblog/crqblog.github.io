@@ -17,6 +17,7 @@ tags:
 不求好看，但功能一定要丰富！css简单点吧！
 
 ```css
+<style>
 #pannel table {
         border-collapse: collapse;
 }
@@ -34,12 +35,14 @@ tags:
 #pannel table .food {
         background-color: blue;
 }
+</style>
 ```
 
 ## js
 接下来是重点，我将会在代码中插入注释讲解。
 
 ```js
+<script>
 var Direction = new function () {
         this.UP = 38;        // 设置键位 上
         this.RIGHT = 39;     // 设置键位 右
@@ -250,6 +253,7 @@ var Direction = new function () {
         if (arguments.length >= 1) this.X = x;
         if (arguments.length >= 2) this.Y = y;
     }
+</script>
 ```
 
 ## html
