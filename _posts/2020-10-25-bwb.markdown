@@ -1,0 +1,18 @@
+---
+layout:     post
+title:      "SnackBar"
+subtitle:      "SnackBar简明介绍"
+date:       2020-8-22 14:12:12
+author:     "Chen"
+header-img: "img/post-bg-miui6.jpg"
+tags:
+    - 原创
+    - js
+---
+> 兄弟们，它来了！
+
+# 简介
+最近用js+css开发了一套web框架，类似bootstrap，使用方便
+
+# 项目地址
+https://github.com/crqblog/bwb
