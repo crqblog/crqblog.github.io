@@ -5,7 +5,7 @@ header-img: img/home-bg.jpg
 email: qbszbuilder@163.com
 description: "这里是陈睿琦的个人博客，与你一起发现更大的世界。"
 keyword: "陈睿琦, 我, Chen, us, Ricky, @Chen, 陈睿琦的博客, Blog, 博客, 个人网站, 互联网, Web, JavaScript, 前端, 设计"
-url: "https://crqblog.github.io"              # your host, for absolute URL
+url: "https://shbwb.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # Publish posts or collection documents with a future date.
