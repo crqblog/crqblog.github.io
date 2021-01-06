@@ -1,1 +1,1 @@
-## [View blog](https://crqblog.github.io)
+## [View blog](https://crq.js.org)
