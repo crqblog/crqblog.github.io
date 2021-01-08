@@ -5,6 +5,3 @@ The current physical activity scope is mainly in Minhang, Shanghai, and the avat
 
 ##### other
 I'm just a newbie, I hope you guys can support me a lot
-
-##### more
-[click here](https://crq.js.org/moreabout/#/)
